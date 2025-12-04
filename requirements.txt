@@ -23,6 +23,6 @@ yt-dlp
 youtube-search
 py-yt-search
 youtube-search-python
-httpx==0.25.2
+httpx>=0.28.1
 opencv-python
 beautifulsoup4
