@@ -1,13 +1,3 @@
-# ===========================================================
-# ©️ 2025-26 All Rights Reserved by Team Rocky (Im-Notcoder) 🚀
-# 
-# This source code is under MIT License 📜
-# ❌ Unauthorized forking, importing, or using this code
-#    without giving proper credit will result in legal action ⚠️
-# 
-# 📩 DM for permission : @MrRockyTg
-# ===========================================================
-
 from pyrogram import Client
 import config
 from ..logging import LOGGER
@@ -59,8 +49,8 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("ROCKYXSUPPORT")
-                await self.one.join_chat("ROCKYXUPDATE")
+                await self.one.join_chat("Vibe_Bots")
+                await self.one.join_chat("IamIstkhar")
             except:
                 pass
             assistants.append(1)
@@ -80,8 +70,8 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("ROCKYXSUPPORT")
-                await self.one.join_chat("ROCKYXUPDATE")
+                await self.two.join_chat("Vibe_Bots")
+                await self.one.join_chat("IamIstkhar")
             except:
                 pass
             assistants.append(2)
@@ -101,8 +91,8 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("ROCKYXSUPPORT")
-                await self.one.join_chat("ROCKYXUPDATE")
+                await self.three.join_chat("Vibe_Bots")
+                await self.one.join_chat("IamIstkhar")
             except:
                 pass
             assistants.append(3)
@@ -122,8 +112,8 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("ROCKYXSUPPORT")
-                await self.one.join_chat("ROCKYXUPDATE")
+                await self.four.join_chat("Vibe_Bots")
+                await self.one.join_chat("IamIstkhar")
             except:
                 pass
             assistants.append(4)
@@ -143,8 +133,8 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("ROCKYXSUPPORT")
-                await self.one.join_chat("ROCKYXUPDATE")
+                await self.five.join_chat("Vibe_Bots")
+                await self.one.join_chat("IamIstkhar")
             except:
                 pass
             assistants.append(5)
@@ -181,6 +171,6 @@ class Userbot(Client):
 # ©️ 2025-26 All Rights Reserved by Team Rocky (Im-Notcoder) 😎
 # 
 # 🧑‍💻 Developer : t.me/mrrockytg
-# 🔗 Source link : t.me/rockyxsupport
-# 📢 Telegram channel : t.me/rockyxupdate
+# 🔗 Source link : t.me/Vibe_Bots
+# 📢 Telegram channel : t.me/IamIstkhar
 # ===========================================================
