@@ -13,7 +13,7 @@ from pyrogram.types import Message
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, InputMediaPhoto
 from config import *
 from ROCKYMUSIC import app
-from ROCKYMUSIC.core.call import PURVI 
+from ROCKYMUSIC.core.call import ROCKY
 from ROCKYMUSIC.utils import bot_sys_stats
 from ROCKYMUSIC.utils.decorators.language import language
 from ROCKYMUSIC.utils.inline import supp_markup
