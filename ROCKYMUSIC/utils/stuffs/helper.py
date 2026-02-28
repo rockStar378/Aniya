@@ -25,8 +25,8 @@ class Helper(object):
 » ᴘʀɪᴠᴧᴛє & sєᴄυʀє sσᴜʀᴄє | ηᴏ ᴅᴧᴛᴧ sʜᴧʀᴇ
 » ʟɪᴄєηᴄєᴅ ᴜsє | ʏσυтυʙє ᴀᴘɪ sυᴘᴘσʀтєᴅ 
 ──────────────────────
-➤ ʙσᴛ sᴛᴧᴛυs & ϻσʀє ʙσᴛs - [ᴄʟɪᴄᴋ ʜєʀє](https://t.me/IamIstkhar)
-➤ ᴘᴧɪᴅ ᴘʀσϻσᴛɪση :- [ᴄσηᴛᴧᴄᴛ ʜєʀє](https://t.me/Itzz_Istkhar)
+➤ ʙσᴛ sᴛᴧᴛυs & ϻσʀє ʙσᴛs - [ᴄʟɪᴄᴋ ʜєʀє](https://t.me/+N-NjSrg55UNiYTU1)
+➤ ᴘᴧɪᴅ ᴘʀσϻσᴛɪση :- [ᴄσηᴛᴧᴄᴛ ʜєʀє](https://t.me/shree_update)
 ─────────────────────────**
 '''
     
@@ -37,9 +37,9 @@ class Helper(object):
 ● ᴋᴇᴇᴘ ᴄʜᴧᴛ ᴄʟєᴧη ᴧηᴅ ʙᴜɢ-ғʀєє.
 ● ᴧηʏ ᴘʀσʙʟєϻ ? ᴊᴜsᴛ ᴄσηᴛᴧᴄᴛ ᴜs.
 ─────────────────────────
-❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ ➥ [ᴠɪʙᴇ-ʙσᴛs](https://t.me/Vibe_Bots)
-❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ ➥ [ᴜᴘᴅᴧᴛєs](https://t.me/IamIstkhar)
-❖ ɢɪᴛ ʜᴜʙ ʟɪηᴋ ➥ [тєᴧϻ-ɪsᴛᴋʜᴀʀ](https://github.com/TEAM-ISTKHAR)
+❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ ➥ [ᴠɪʙᴇ-ʙσᴛs](https://t.me/kavya_music_robot)
+❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ ➥ [ᴜᴘᴅᴧᴛєs](https://t.me/shree_update)
+❖ ɢɪᴛ ʜᴜʙ ʟɪηᴋ ➥ [тєᴧϻ-Shree](https://www.instagram.com/vip_ankit_121?igsh=NzRtbm93M2J4M2gx)
 ─────────────────────────**
 '''
 
