@@ -23,7 +23,7 @@ BOT_TOKEN = getenv("BOT_TOKEN", None)
 
 # ======================================================
 OWNER_ID = int(getenv("OWNER_ID", 7473021518))
-OWNER_USERNAME = getenv("OWNER_USERNAME", "Itzz_Istkhar")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "vip_ankit_121")
 BOT_USERNAME = getenv("BOT_USERNAME", "Sukku_Music_Bot")
 BOT_NAME = getenv("BOT_NAME", "Sonali Music")
 ASSUSERNAME = getenv("ASSUSERNAME")
@@ -32,7 +32,7 @@ ASSUSERNAME = getenv("ASSUSERNAME")
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 LOGGER_ID = getenv("LOGGER_ID")
 if not LOGGER_ID or LOGGER_ID.strip() == "":
-    LOGGER_ID = -1002136457746
+    LOGGER_ID = -1002389305159
 else:
     LOGGER_ID = int(LOGGER_ID)
 
@@ -57,12 +57,12 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 # ======================================================
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/ISTKHAR-CODER786/iqra")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/rockStar378/Aniya")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # ======================================================
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/IamIstkhar")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/shree_update")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+xfr6-ZOTaZVmODU1")
 
 # ======================================================
